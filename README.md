@@ -46,10 +46,10 @@ dt.shape
 
 ![image](https://github.com/23006823/EXNO2DS/assets/138971409/9b3f8940-f34a-4efe-857c-5c3e286a59f2)
 ```
-dt.set_index("PassengerId",inplace=True
-```
-dt.describe()
+dt.set_index("PassengerId",inplace=True)
 
+dt.describe()
+```
 ![image](https://github.com/23006823/EXNO2DS/assets/138971409/603a6476-0b6e-4939-be1d-020a5411eb5a)
 
 ```
